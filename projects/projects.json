@@ -1,0 +1,64 @@
+[
+  {
+    "name": "AgriShield",
+    "desc": "AgriShield is a deep learning-based pest detection and pesticide suggestion system using image input for accurate farm pest identification and treatment.",
+    "image": "pes",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/vedant281104/AgriShield",
+      "rep" : "https://drive.google.com/drive/folders/1K8IhqaYAREUw2Zbpz9ibx5tglUmKjXmX?usp=drive_link"
+      
+    }
+  },
+  {
+    "name": "Edulytics",
+    "desc": "An AI-powered student performance prediction system that analyzes various factors to predict overall performance. Built using Python, Streamlit, and Random Forest.",
+    "image": "edu",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/vedant281104/Edulytics",
+      "rep" : "https://drive.google.com/drive/folders/1K8IhqaYAREUw2Zbpz9ibx5tglUmKjXmX?usp=drive_link"
+    }
+  },
+  {
+    "name": "ApproveX",
+    "desc": "A loan approval prediction system built using Python and Streamlit. It uses a logistic regression model to predict loan approval status based on user details.",
+    "image": "loan",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/vedant281104/Bank-Loan-Approval-Prediction-System",
+      "rep" : "https://drive.google.com/drive/folders/1K8IhqaYAREUw2Zbpz9ibx5tglUmKjXmX?usp=drive_link"
+    }
+  },
+  {
+    "name": "Github Profile Finder",
+    "desc": "Simple frontend project made using HTML/CSS and Javascript to check any user github profile.",
+    "image": "git",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/vedant281104/Github-Profile-Finder",
+      "rep" : "https://drive.google.com/drive/folders/1K8IhqaYAREUw2Zbpz9ibx5tglUmKjXmX?usp=drive_link"
+    }
+  },
+  {
+    "name": "Voice Translator",
+    "desc": "A voice translator system for creating the voice translation using Python and Streamlit. It uses Google Text-to-Speech and SpeechRecognition libraries.",
+    "image": "voice2",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/vedant281104/NLP-Translator",
+      "rep" : "https://drive.google.com/drive/folders/1K8IhqaYAREUw2Zbpz9ibx5tglUmKjXmX?usp=drive_link"
+    }
+  },
+    {
+      "name": "FWI Prediction using Real Time Data",
+      "desc": "A system that predicts fire weather index for any city in the world.",
+      "image": "fire",
+      "category": "android",
+      "links": {
+        "code": "https://github.com/vedant281104/FWI-Prediction-using-Real-time-Data",
+        "rep" : "https://drive.google.com/drive/folders/1K8IhqaYAREUw2Zbpz9ibx5tglUmKjXmX?usp=drive_link"
+      }
+
+  }
+  ]
